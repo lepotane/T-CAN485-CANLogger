@@ -108,6 +108,3 @@ docs/                           # tüm dokümantasyon
 - ECU'ya yazma / şifre çözme / tuning komutu **göndermez**.
 - Aracın 12V hattına kalıcı bağlanırken **1-2A sigorta** kullan.
 
-## 📄 Lisans
-
-Özel kullanım içindir. (Private repo.)
